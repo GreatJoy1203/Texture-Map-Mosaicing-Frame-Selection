@@ -1,4 +1,4 @@
-# Texture-Map-Mosaicing-Frame-Selection\
+# Texture-Map-Mosaicing-Frame-Selection
 
 Jiyang Gao
 Texture mosaicking
